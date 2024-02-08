@@ -135,8 +135,15 @@ __Задание 4.__
 
 __Домашнее задание__
 
+![image](https://github.com/S1ngle777/Lab_2_PHP/assets/128795707/836202d8-5e59-4811-a1dc-94059b39967f)
 
-Для своего примера, использовал все операторы и команды, что были изучаны.
+
+Для своего примера, использовал все операторы и команды, что были изучены.
+В зависимости от дня недели и времени выводится разный текст.
+
+![image](https://github.com/S1ngle777/Lab_2_PHP/assets/128795707/2c4250a8-2a0d-44f6-976c-4a548715ae99)
+
+![image](https://github.com/S1ngle777/Lab_2_PHP/assets/128795707/5edc5a9a-3c82-4960-b497-d640258001f6)
 
 ## Список использованных источников
 [https://www.w3schools.com/php/func_date_date.asp](https://www.w3schools.com/php/func_date_date.asp)
